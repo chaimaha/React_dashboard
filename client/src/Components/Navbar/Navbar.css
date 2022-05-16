@@ -1,0 +1,11 @@
+li {
+  color: rgb(99, 26, 30) !important;
+}
+.auth {
+  padding-left: 5% !important;
+}
+.ul_auth {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
